@@ -6,7 +6,7 @@
 <body>
 🔭 I’m currently working on <br>
 <div class="my-workings" style="display:flex;">
-    <a href="https://html.com/"><i class="fa fa-html5"></i></a>
+    <a href="https://html.com/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 </div>
 </body>
 </html>
