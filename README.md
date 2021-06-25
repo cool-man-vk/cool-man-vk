@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>&#128521;Hi there, I am Vignesh kumar&#128521;</h1>
+    <h1>I am a Student, Designer and an enthusiast of learning new things.&#128521;</h1>
     <ul>
         <li>Frontend developer</li>
         <li> I’m currently working on </li>
@@ -12,5 +12,6 @@
            <a href="https://reactjs.org/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/nolan/64/react-native.png"/></a>
         </div>
         <li>Coding enthusiasist</li>
+        <li>Looking forward to colloborate with more people.</li>
 </body>
 </html>
