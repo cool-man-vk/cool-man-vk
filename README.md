@@ -2,7 +2,6 @@
 <body>
     <h1>I am a Student, Designer and a passionate of learning new things.&#128521;</h1>
     <ul>
-        <li>Frontend developer</li>
         <li>I’m currently working on </li><br>
         <div class="my-workings" style="display:flex;margin:15px;">
            &nbsp;<a href="https://html.com/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
