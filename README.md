@@ -16,6 +16,7 @@
         <li><h2>Connect with me</h2></li>
         <div>
             <span><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></span>
+            <span><img src="https://img.icons8.com/color/48/000000/github--v1.png"></span>
         </div>
 </body>
 </html>
