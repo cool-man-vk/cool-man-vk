@@ -16,10 +16,10 @@
     </ul>
         <h2>Connect with me</h2>
         <div>
-            <span><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></span>
-            <span><img src="https://img.icons8.com/color/48/000000/github--v1.png"></span>
-            <span><img src="https://img.icons8.com/color/48/000000/facebook-new.png"></span>
-            <span><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"></span>
+            <span><a href="https://www.instagram.com/cool_man_vk/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a></span>
+            <span><a href="https://github.com/cool-man-vk"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a></span>
+            <span><a href="https://www.facebook.com/profile.php?id=100025874076108"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"></a></span>
+            <span><a href="https://twitter.com/Vignesh73650504"><img src="https://img.icons8.com/office/16/000000/twitter.png"/></a></span>
         </div>
 </body>
 </html>
