@@ -19,6 +19,7 @@
             <span><a href="https://github.com/cool-man-vk"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a></span>
             <span><a href="https://www.facebook.com/profile.php?id=100025874076108"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"></a></span>
             <span><a href="https://twitter.com/Vignesh73650504"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></span>
+            <span><a href="https://www.linkedin.com/in/vignesh-kumar-8101581b0/https://www.linkedin.com/in/vignesh-kumar-8101581b0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></span>
         </div>
 </body>
 </html>
