@@ -11,6 +11,7 @@
            &nbsp;<a href="https://reactjs.org/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/nolan/64/react-native.png"/></a>
         </div><br>
         <li>Programmer</li>
+        <li>Student at Amrita Vishwa Vidhyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
     </ul>
         <h2>Connect with me</h2>
