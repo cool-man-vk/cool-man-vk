@@ -10,7 +10,6 @@
            &nbsp;<a href="https://www.javascript.com/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/django.png"/></a>
            &nbsp;<a href="https://reactjs.org/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/nolan/64/react-native.png"/></a>
         </div><br>
-        <li>Programmer</li>
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
     </ul>
