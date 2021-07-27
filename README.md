@@ -24,4 +24,4 @@
         </div>
 </body>
 </html>
-https://github.com/cool-man-vk/github-readme-stats
+https://github-readme-stats.vercel.app/api?username=cool-man-vk
