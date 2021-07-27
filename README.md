@@ -23,5 +23,4 @@
             <span><a href="https://www.linkedin.com/in/vignesh-kumar-8101581b0/https://www.linkedin.com/in/vignesh-kumar-8101581b0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></span>
         </div>
 </body>
-</html>
-https://github-readme-stats.vercel.app/api?username=cool-man-vk
+</html><hr>
