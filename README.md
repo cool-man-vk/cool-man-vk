@@ -24,4 +24,4 @@
         </div>
 </body>
 </html>
-[![cool-man-vk's github stats](https://github-readme-stats.vercel.app/api?username=cool-man-vk)](https://github.com/cool-man-vk/github-readme-stats)
+(https://github.com/cool-man-vk/github-readme-stats)
