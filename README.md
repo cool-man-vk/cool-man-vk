@@ -24,4 +24,4 @@
         </div>
 </body>
 </html>
-(https://github.com/cool-man-vk/github-readme-stats)
+https://github.com/cool-man-vk/github-readme-stats
