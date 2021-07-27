@@ -24,5 +24,3 @@
         </div>
 </body>
 </html>
-![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=cool-man-vk&count_private=true))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk)](https://github.com/cool-man-vk/github-readme-stats)
