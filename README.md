@@ -11,6 +11,7 @@
            &nbsp;<a href="https://reactjs.org/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/nolan/64/react-native.png"/></a>
             &nbsp;<a href="https://vuejs.org/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
             &nbsp;<a href="https://code.visualstudio.com/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+            &nbsp;<a href="https://www.learn-c.org/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
         </div><br>
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
