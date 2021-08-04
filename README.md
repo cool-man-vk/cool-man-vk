@@ -1,4 +1,5 @@
-
+<html>
+<body>
     <h1>I am a Student, Designer and a passionate of learning new things.&#128521;</h1>
     <ul>
         <li>Languages and tools..</li><br>
@@ -26,3 +27,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk">
 
+</body>
+</html>
