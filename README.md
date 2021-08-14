@@ -16,7 +16,7 @@
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
     </ul>
-        <h2>Connect with me</h2>
+        <h2>Connect with me:-></h2>
         <div>
             <span><a href="https://www.instagram.com/cool_man_vk/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a></span>
             <span><a href="https://github.com/cool-man-vk"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a></span>
