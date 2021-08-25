@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>I am a Student, Designer and a passionate of learning new things.&#128521;</h1><hr>
+    <h1>I am a Student, Designer and a passionate of learning new things.&#128521;</h1>
     <ul>
         <li>Languages I am working on....</li><br>
         <div class="my-workings" style="display:flex;margin:15px;">
