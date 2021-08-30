@@ -14,6 +14,7 @@
             &nbsp;<a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/nolan/64/sql.png"/></a>
             &nbsp;<a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
             &nbsp;<a href="https://www.cplusplus.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+            &nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
         </div><br>
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
