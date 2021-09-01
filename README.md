@@ -12,7 +12,7 @@
             &nbsp;<a href="https://vuejs.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
             &nbsp;<a href="https://www.learn-c.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
             &nbsp;<a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/nolan/64/sql.png"/></a>
-            &nbsp;<a href="https://nuxtjs.org/"><img width="30" height="30" src="https://o.remove.bg/downloads/c0e9e75b-de77-4833-8075-5868d47c1d26/image-removebg-preview.png"/></a>
+            &nbsp;<a href="https://nuxtjs.org/"><img width="40" height="40" src="https://o.remove.bg/downloads/c0e9e75b-de77-4833-8075-5868d47c1d26/image-removebg-preview.png"/></a>
             &nbsp;<a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
             &nbsp;<a href="https://www.cplusplus.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
             &nbsp;<a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
