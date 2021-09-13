@@ -29,7 +29,7 @@
         </div><hr>
     <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=radical">
 
 </body>
 </html>
