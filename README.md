@@ -28,8 +28,8 @@
             <span><a href="https://www.linkedin.com/in/vignesh-kumar-8101581b0/https://www.linkedin.com/in/vignesh-kumar-8101581b0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></span>
         </div><hr>
     <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&theme=radical">
-    <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=radical" height="280"></span>
-    <span>&nbsp;&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=radical" height="280"></span>
+    <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=radical" height="200"></span>
+    <span>&nbsp;&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=radical" height="200"></span>
 
 </body>
 </html>
