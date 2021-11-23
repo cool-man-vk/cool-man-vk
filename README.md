@@ -2,7 +2,7 @@
 <body>
     <h1>Currently Student and a passionate of learning new things.&#128521;</h1>
     <ul>
-        <li><h1>Languages I am working on....<h1></li><br>
+        <li>Languages I am working on....</li><br>
         <div class="my-workings" >
            &nbsp;<a href="https://html.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
            &nbsp;<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
@@ -19,7 +19,7 @@
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
     </ul>
-        <h2>Connect with me :</h2>
+        <h1>Connect with me :</h1>
         <div>
             <span><a href="https://www.instagram.com/cool_man_vk/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a></span>
             <span><a href="https://github.com/cool-man-vk"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a></span>
