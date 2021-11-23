@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>Currently Student and a passionate of learning new things.&#128521;</h1>
+    <h2>Currently Student and a passionate of learning new things.&#128521;</h2>
     <ul>
         <li>Languages I am working on....</li><br>
         <div class="my-workings" >
@@ -19,7 +19,7 @@
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
     </ul>
-        <h1>Connect with me :</h1>
+        <h2>Connect with me :</h2>
         <div>
             <span><a href="https://www.instagram.com/cool_man_vk/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a></span>
             <span><a href="https://github.com/cool-man-vk"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a></span>
