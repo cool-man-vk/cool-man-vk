@@ -32,5 +32,6 @@
     <span><img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&theme=radical"></span>
     <span>&nbsp;&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=radical"></span>
     <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=radical"></center>
+    <img src="https://activity-graph.herokuapp.com/graph?username=cool-man-vk&bg_color=fcfe9&color=e8e8e8&line=00e7eb&point=e60a0a&area=true&hide_border=true">
 </body>
 </html>
