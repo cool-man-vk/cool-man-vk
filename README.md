@@ -19,6 +19,7 @@
         </div><br>
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
+        <li>Working on Cross platform App Development</li>
     </ul>
         <h2>Connect with me :</h2>
         <div>
