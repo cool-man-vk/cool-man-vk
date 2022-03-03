@@ -1,6 +1,6 @@
 
 
-<h2>Hi there , I am Vignesh kumar. I am a passionate of learning new things😉</h2>
+<h3>Hi there , I am Vignesh kumar. I am a passionate of learning new things😉</h3>
 <ul>
   <li>Looking forward to colloborate with more people</li>
   <li>I’m currently working on Cross Platform App Development</li>
@@ -9,18 +9,6 @@
  
 </ul>
 <br/>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 <h3>Languages I will work on ...</h3>
 
 <table>
@@ -40,5 +28,18 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=dark">
