@@ -3,7 +3,7 @@
     <h2>Currently Student and a passionate of learning new things.&#128521;</h2>
     <ul>
         <li>Languages I work on..</li><br>
-        
+        <li>
            <div class="my-learnings" style="display:flex">
                &nbsp;<a href="https://html.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
                &nbsp;<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
@@ -18,6 +18,7 @@
                &nbsp;<a href="https://www.cplusplus.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
                &nbsp;<a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
             </div>
+        </li>
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
         <li>Working on Cross platform App Development</li>
