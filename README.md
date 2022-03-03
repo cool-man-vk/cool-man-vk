@@ -1,38 +1,43 @@
-<html>
-<body>
-    <h2>Currently Student and a passionate of learning new things.&#128521;</h2>
-    <ul>
-        <li>Languages I work on..</li><br>
-        <li>
-           <div class="my-learnings" style="display:flex">
-               &nbsp;<a href="https://html.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-               &nbsp;<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-               &nbsp;<a href="https://www.javascript.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/dusk/48/000000/javascript-logo.png"/></a>
-               &nbsp;<a href="https://flutter.dev" target="_blank"><img width="40" height="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/></a>
-               &nbsp;<a href="https://www.javascript.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/django.png"/></a>
-               &nbsp;<a href="https://reactjs.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/nolan/64/react-native.png"/></a>
-               &nbsp;<a href="https://vuejs.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-               &nbsp;<a href="https://www.learn-c.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-               &nbsp;<a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/nolan/64/sql.png"/></a>
-               &nbsp;<a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
-               &nbsp;<a href="https://www.cplusplus.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-               &nbsp;<a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-            </div>
-        </li>
-        <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
-        <li>Looking forward to colloborate with more people.</li>
-        <li>Working on Cross platform App Development</li>
-    </ul>
-        <h2>Connect with me :</h2>
+
+
+<h2>Hi there , I am Vignesh kumar. I am a passionate of learning new things😉</h2>
+<ul>
+  <li>I’m currently working on Cross Platform App Development</li>
+  <li>I am a Full Stack Web developer</li>
+  <li>Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫</li>
+ 
+</ul>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+**Some languages which I will work on .....**
+
+<table>
+    <tr>
+      <td>
         <div>
-            <span><a href="https://www.instagram.com/cool_man_vk/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a></span>
-            <span><a href="https://github.com/cool-man-vk"><img src="https://img.icons8.com/color/48/000000/github--v1.png"></a></span>
-            <span><a href="https://www.facebook.com/profile.php?id=100025874076108"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"></a></span>
-            <span><a href="https://twitter.com/Vignesh73650504"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></span>
-            <span><a href="https://www.linkedin.com/in/vignesh-kumar-8101581b0/https://www.linkedin.com/in/vignesh-kumar-8101581b0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></span>
-        </div><hr>
-    <span><img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&theme=radical"></span>
-    <span>&nbsp;&nbsp;<img src="http://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=radical"></span>
-    <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=radical"></center>
-</body>
-</html>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="50" height="50"/></a>
+          <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.icons8.com/color/48/000000/css3.png" width="50" height="50"/></a>
+          <a href="https://www.javascript.com"><img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" /></a>
+          <a href="https://www.djangoproject.com"><img src="https://img.icons8.com/color/128/000000/django.png" alt="django" width="50" height="50" /></a>
+          <a href="https://reactjs.org"><img src="https://img.icons8.com/nolan/64/react-native.png" width="50" height="50"/></a>
+          <a href="https://vuejs.org"><img src="https://img.icons8.com/color/48/000000/vue-js.png" width="50" height="50"/></a>
+          <a href="https://www.python.org"><img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" /></a>
+          <a href="https://flutter.dev"><img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="50" height="50"/></a>
+          <a href="https://www.cprogramming.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50" /><a>
+        </div>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=radical">
