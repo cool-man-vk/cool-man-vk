@@ -3,21 +3,21 @@
     <h2>Currently Student and a passionate of learning new things.&#128521;</h2>
     <ul>
         <li>Languages I work on..</li><br>
-        <li>
+        
        
            &nbsp;<a href="https://html.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
            &nbsp;<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/></a>
            &nbsp;<a href="https://www.javascript.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/dusk/48/000000/javascript-logo.png"/></a>
-            &nbsp;<a href="https://flutter.dev" target="_blank"><img width="40" height="40" src = "https://img.icons8.com/fluency/48/000000/flutter.png"> </a>
+           &nbsp;<a href="https://flutter.dev" target="_blank"><img width="40" height="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </a>
            &nbsp;<a href="https://www.javascript.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/django.png"/></a>
            &nbsp;<a href="https://reactjs.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/nolan/64/react-native.png"/></a>
-            &nbsp;<a href="https://vuejs.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-            &nbsp;<a href="https://www.learn-c.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-            &nbsp;<a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/nolan/64/sql.png"/></a>
-            &nbsp;<a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
-            &nbsp;<a href="https://www.cplusplus.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-            &nbsp;<a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-        </li>
+           &nbsp;<a href="https://vuejs.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+           &nbsp;<a href="https://www.learn-c.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+           &nbsp;<a href="https://www.mysql.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/nolan/64/sql.png"/></a>
+           &nbsp;<a href="https://www.java.com/en/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
+           &nbsp;<a href="https://www.cplusplus.com/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+           &nbsp;<a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+       
         <li>Student at Amrita Vishwa Vidyapeetham,Chennai campus.</li>
         <li>Looking forward to colloborate with more people.</li>
         <li>Working on Cross platform App Development</li>
