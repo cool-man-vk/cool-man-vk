@@ -37,9 +37,11 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
     </td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=dark">
+    </td>
   </tr>
 </table>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=dark">
