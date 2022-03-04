@@ -28,15 +28,6 @@
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
-    </td> 
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=dark">
