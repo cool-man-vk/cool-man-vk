@@ -6,6 +6,7 @@
   <li>I’m currently working on Cross Platform App Development</li>
   <li>I am a Full Stack Web developer</li>
   <li>Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫</li>
+  <li>Wanna know about me? Google => <a href="www.google.com/search?q=cool-man-vk">here</a></li>
  
 </ul>
 <h3>Languages I will work on ...</h3>
