@@ -3,7 +3,8 @@
 <h3>Hi there , I am Vignesh kumar. I am a passionate of learning new things😉</h3>
 <ul>
   <li>Looking forward to colloborate with more people</li>
-  <li>Cross Platform App Developer | Full Stack Web developer</li>
+  <li>Working on Cross Platform App Development</li>
+  <li>Full Stack Web developer</li>
   <li>Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫</li>
   <li>Wanna know about me? Google => <a href="https://www.google.com/search?q=cool-man-vk">here</a></li>
  
