@@ -8,7 +8,7 @@
   <li>Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫</li>
  
 </ul>
-<h3>Languages I will work on ...</h3>
+<h3>Languages and tools working on ...</h3>
 <table>
     <tr>
       <td>
