@@ -22,6 +22,7 @@
           <a href="https://www.python.org"><img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" /></a>
           <a href="https://flutter.dev"><img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="50" height="50"/></a>
           <a href="https://www.cprogramming.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50" /><a>
+          <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="50" height="50"></a>
         </div>
     </td>
   </tr>
