@@ -24,7 +24,7 @@
           <a href="https://www.cprogramming.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50" /><a>
           <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="50" height="50"></a>
           <a href="https://ethereum.org/en/"><img src="https://img.icons8.com/fluency/48/undefined/ethereum.png" alt="ethereum" width="50" height="50"/></a>
-          <a href="https://docs.soliditylang.org/en/v0.8.15/"><img src="https://img.icons8.com/ios/50/undefined/solidity.png" height="50" width="50"/></a>
+          <a href="https://docs.soliditylang.org/en/v0.8.15/"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/coding-2848580-2369218.png" height="50" width="50"/></a>
         </div>
     </td>
   </tr>
