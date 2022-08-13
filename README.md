@@ -23,9 +23,6 @@
           <a href="https://flutter.dev"><img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="50" height="50"/></a>
           <a href="https://www.cprogramming.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50" /><a>
           <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="50" height="50"></a>
-          <a href="https://pandas.pydata.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="50" height="50"></a>
-          <a href="https://scikit-learn.org/stable/"><img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange.png" alt="scikit-learn" width="50" height="50"></a>
-          <a href="https://numpy.org"><img src="https://miro.medium.com/max/1400/1*77kb1s09XosupOF4vGPzzg.png" alt="numpy" width="50" height="50"/></a>
         </div>
     </td>
   </tr>
