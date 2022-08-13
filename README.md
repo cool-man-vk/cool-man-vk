@@ -23,8 +23,9 @@
           <a href="https://flutter.dev"><img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="50" height="50"/></a>
           <a href="https://www.cprogramming.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50" /><a>
           <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="50" height="50"></a>
-          <a href="https://ethereum.org/en/"><img src="https://img.icons8.com/fluency/48/undefined/ethereum.png" alt="ethereum" width="50" height="50"/></a>
-          <a href="https://docs.soliditylang.org/en/v0.8.15/"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/coding-2848580-2369218.png" height="50" width="50"/></a>
+          <a href="https://pandas.pydata.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="50" height="50"></a>
+          <a href="https://scikit-learn.org/stable/"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_77c883b19775c25838d2055fc2e7387e/scikit-learn.png" alt="scikit-learn" width="50" height="50">/></a>
+          <a href="https://numpy.org"><img src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo-thumbnail.png" alt="numpy" width="50" height="50"/></a>
         </div>
     </td>
   </tr>
