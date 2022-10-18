@@ -9,7 +9,7 @@
  
 </ul>
 <a href="holopin.io/@coolmanvk">
-    [![@coolmanvk's Holopin board](https://holopin.me/coolmanvk)](https://holopin.io/@coolmanvk)
+    ![@coolmanvk's Holopin board](https://holopin.me/coolmanvk)(https://holopin.io/@coolmanvk)
 </a>
 <h3>Languages and tools working on ...</h3>
 <table>
