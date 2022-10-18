@@ -8,9 +8,9 @@
   <li>Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫</li>
  
 </ul>
-<a href="holopin.io/@coolmanvk">
-    ![@coolmanvk's Holopin board](https://holopin.me/coolmanvk)(https://holopin.io/@coolmanvk)
-</a>
+
+[![@coolmanvk's Holopin board](https://holopin.me/coolmanvk)](https://holopin.io/@coolmanvk)
+
 <h3>Languages and tools working on ...</h3>
 <table>
     <tr>
