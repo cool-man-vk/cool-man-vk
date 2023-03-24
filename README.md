@@ -3,7 +3,7 @@
 <h3>Hi there , I am Vignesh kumar. I am a passionate of learning new things😉</h3>
 <ul>
   <li>Looking forward to colloborate with more people</li>
-  <li>Currently working on Machine Learning</li>
+  <li>Currently working on Full Stack Development</li>
   <li>Full Stack Web developer</li>
   <li>Student at Amrita Vishwa Vidyapeetham , Chennai Campus🏫</li>
  
@@ -21,8 +21,8 @@
           <a href="https://www.javascript.com"><img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" /></a>
           <a href="https://www.djangoproject.com"><img src="https://img.icons8.com/color/128/000000/django.png" alt="django" width="50" height="50" /></a>
           <a href="https://reactjs.org"><img src="https://img.icons8.com/nolan/64/react-native.png" width="50" height="50"/></a>
-          <a href="console.firebase.google.com/"><img src="https://icons8.com/icon/62452/firebase" width="50" height="50" /></a>
-          <a href="https://www.mongodb.com/"><img src="https://icons8.com/icon/74402/mongodb" width="50" height="50"/></a>
+          <a href="console.firebase.google.com/"><img src="https://img.icons8.com/color/48/null/firebase.png" width="50" height="50" /></a>
+          <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/null/mongodb.png" width="50" height="50"/></a>
           <a href="https://vuejs.org"><img src="https://img.icons8.com/color/48/000000/vue-js.png" width="50" height="50"/></a>
           <a href="https://www.python.org"><img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" /></a>
           <a href="https://flutter.dev"><img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="50" height="50"/></a>
