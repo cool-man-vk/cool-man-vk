@@ -21,11 +21,14 @@
           <a href="https://www.javascript.com"><img src="https://img.icons8.com/color/128/000000/javascript.png" alt="javascript" width="50" height="50" /></a>
           <a href="https://www.djangoproject.com"><img src="https://img.icons8.com/color/128/000000/django.png" alt="django" width="50" height="50" /></a>
           <a href="https://reactjs.org"><img src="https://img.icons8.com/nolan/64/react-native.png" width="50" height="50"/></a>
+          <a href="console.firebase.google.com/"><img src="https://icons8.com/icon/62452/firebase" width="50" height="50" /></a>
+          <a href="https://www.mongodb.com/"><img src="https://icons8.com/icon/74402/mongodb" width="50" height="50"/></a>
           <a href="https://vuejs.org"><img src="https://img.icons8.com/color/48/000000/vue-js.png" width="50" height="50"/></a>
           <a href="https://www.python.org"><img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" /></a>
           <a href="https://flutter.dev"><img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="50" height="50"/></a>
           <a href="https://www.cprogramming.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50" /><a>
           <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="50" height="50"></a>
+            
         </div>
     </td>
   </tr>
