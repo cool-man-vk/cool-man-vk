@@ -11,7 +11,7 @@
 
 [![@coolmanvk's Holopin board](https://holopin.me/coolmanvk)](https://holopin.io/@coolmanvk)
 
-<h3>Languages and tools working on ...</h3>
+<h3>Languages and tools I work on ...</h3>
 <table>
     <tr>
       <td>
