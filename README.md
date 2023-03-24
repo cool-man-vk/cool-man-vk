@@ -13,6 +13,8 @@
 
 <h3>Languages and tools I work on ...</h3>
 <table>
+  <tr>
+    <td>
         <div>
           <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="50" height="50"/></a>
           <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.icons8.com/color/48/000000/css3.png" width="50" height="50"/></a>
@@ -27,6 +29,8 @@
           <a href="https://www.cprogramming.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50" /><a>
           <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="50" height="50"></a> 
         </div>
+            </td>
+          </tr>
 </table>
 <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
