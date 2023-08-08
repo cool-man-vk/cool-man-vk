@@ -35,4 +35,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=cool-man-vk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=cool-man-vk&theme=dark&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cool-man-vk&theme=dark">
-<img src="https://activity-graph.herokuapp.com/graph?username=cool-man-vk&bg_color=000000&color=ffffff&line=80ffff&point=ffffff&area=true&hide_border=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=cool-man-vk)](https://github.com/ryo-ma/github-profile-trophy)
