@@ -3,7 +3,7 @@
 <h3>Hi there, I am Vignesh Kumar. I am a passionate of learning new things😉</h3>
 <ul>
   <li>Looking forward to collaborating with more people</li>
-  <li>Currently working on Node.js💪💪</li>
+  <li>Freelancer💪💪</li>
   <li>Full Stack developer</li>
   <li>Student at Amrita Vishwa Vidyapeetham, Chennai Campus🏫</li>
  
